@@ -13,7 +13,8 @@
 Pour cette fin de semestre nous devions programmer un tower défense inspiré du jeu Plant vs Zombies. On devait programmer ce jeu à l’aide de la bibliothèque MLV et des bibliothèque standard du langage C.
 
 ## Lancer le jeu 
-Il faut deux options pour lancer le jeu
+Il il y a deux options pour lancer le jeu.
+
 #### Mode graphique
     -a : Mode ASCII
-    -g : Mode graphique
+    -g : Mode interface graphique
